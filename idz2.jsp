@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>VSTU 3 </title>
+<title>VSTU 10_38 </title>
 </head>
 <body>
 	<table border="1" > 
